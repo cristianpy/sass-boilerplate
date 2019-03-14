@@ -1,24 +1,23 @@
 {
-  "name": "sass-boilerplate",
+  "name": "sass-example",
   "version": "1.0.0",
-  "description": "Boilerplate of sass",
+  "description": "Example of sass",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cristianpy/sass-boilerplate.git"
+    "url": "git+https://github.com/cristianpy/sass-example.git"
   },
   "keywords": [
     "sass",
-    "css",
-    "boilerplate"
+    "css"
   ],
   "author": "Cristian Paniagua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cristianpy/sass-boilerplate/issues"
+    "url": "https://github.com/cristianpy/sass-example/issues"
   },
-  "homepage": "https://github.com/cristianpy/sass-boilerplate#readme"
+  "homepage": "https://github.com/cristianpy/sass-example#readme"
 }
