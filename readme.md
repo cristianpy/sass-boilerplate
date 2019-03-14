@@ -1,3 +1,3 @@
 # Resources
-https://bennettfeely.com/clippy/
 https://youtu.be/roywYSEPSvc
+https://bennettfeely.com/clippy/
